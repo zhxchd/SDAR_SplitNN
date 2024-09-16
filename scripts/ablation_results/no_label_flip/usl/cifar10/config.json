@@ -1,0 +1,10 @@
+{
+    "e_lr": 0.001,
+    "e_dis_lr": 2e-5,
+    "lambda1": 0.02,
+    "d_lr": 0.0005,
+    "d_dis_lr": 5e-9,
+    "lambda2": 1e-5,
+    "hs_lr": 0.001,
+    "flip_rate": 0.2
+}
